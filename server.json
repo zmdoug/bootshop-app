@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 2
+    },
+    {
+      "id": 3,
+      "amount": 4
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 3
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "BOOT de couro sintético",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/bota-coturno-couro-just-walk-ziper-lateral-masculina/06/OVF-0006-006/OVF-0006-006_zoom1.jpg?ims=120x"
+    },
+    {
+      "id": 2,
+      "title": "BOOT JEEP Wrangler",
+      "price": 229.9,
+      "image": "https://static.netshoes.com.br/produtos/bota-jeep-wrangler-adventure-masculina/30/CQM-0239-030/CQM-0239-030_zoom1.jpg?ims=120x"
+    },
+    {
+      "id": 3,
+      "title": "BOOT JEEP Black cat",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/bota-couro-jeep-novo-renegade-adventure-high-masculina/08/CQM-0240-008/CQM-0240-008_zoom1.jpg?ims=120x"
+    },
+    {
+      "id": 4,
+      "title": "BOOT Just walk",
+      "price": 119,
+      "image": "https://static.netshoes.com.br/produtos/bota-coturno-couro-just-walk-masculina/03/OVF-0005-003/OVF-0005-003_zoom1.jpg?ims=120x"
+    },
+    {
+      "id": 5,
+      "title": "BOOT EPIC Saxxon",
+      "price": 199.9,
+      "image": "https://static.netshoes.com.br/produtos/bota-saxxon-adventure-p4700sx-masculina/24/NFF-0014-224/NFF-0014-224_zoom1.jpg?ims=120x"
+    },
+    {
+      "id": 6,
+      "title": "BOOT EPIC Captain",
+      "price": 234.5,
+      "image": "https://static.netshoes.com.br/produtos/bota-epico-captain-casual-masculina/22/LDC-0048-822/LDC-0048-822_zoom1.jpg?ims=120x"
+    }
+  ]
+}
